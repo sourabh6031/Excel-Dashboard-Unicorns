@@ -1,0 +1,14 @@
+In this project there is two file that is, one csv file that contains raw data and another one is 
+excel file that contains 'Dashboard', 'Calculated Data' and 'Raw Data' sheets respectively.
+
+I have created a dashboard which shows three type of visuals.
+
+First Visual- It's a scrolling table with a scrolling bar that shows top Fourty Unicorns along with there company name,
+industry,country,valuations,Date of joining.
+It is calculated using index function.
+
+Second Visual- It's column bar chart that shows Top Five and Bottom Five company, which is controlled by Form Control Developer Tool.
+It is calculated using choose function, large function and small function.
+
+Third Visual- It is a line chart, basically a type of time series line chart which is controlled by drop down list.
+It is calculated using index and match function.      
